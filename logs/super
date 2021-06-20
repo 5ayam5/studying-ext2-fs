@@ -1,0 +1,13 @@
+Reading super-block from device /dev/sda1:
+Inodes count            : 131072
+Blocks count            : 524288
+Reserved blocks count   : 26214
+Free blocks count       : 515284
+Free inodes count       : 131061
+First data block        : 0
+Block size              : 4096
+Blocks per group        : 32768
+Inodes per group        : 8192
+Creator OS              : 0
+First non-reserved inode: 11
+Size of inode structure : 256

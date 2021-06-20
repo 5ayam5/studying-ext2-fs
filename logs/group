@@ -1,0 +1,129 @@
+16 134217728
+Reading block number 1 from device /dev/sda1:
+Blocks bitmap block: 129
+Inodes bitmap block: 130
+Inodes table block : 131
+Free blocks count  : 32117
+Free inodes count  : 8179
+Directories count  : 2
+
+Reading block number 2 from device /dev/sda1:
+Blocks bitmap block: 32897
+Inodes bitmap block: 32898
+Inodes table block : 32899
+Free blocks count  : 32125
+Free inodes count  : 8192
+Directories count  : 0
+
+Reading block number 3 from device /dev/sda1:
+Blocks bitmap block: 65536
+Inodes bitmap block: 65537
+Inodes table block : 65538
+Free blocks count  : 32254
+Free inodes count  : 8192
+Directories count  : 0
+
+Reading block number 4 from device /dev/sda1:
+Blocks bitmap block: 98433
+Inodes bitmap block: 98434
+Inodes table block : 98435
+Free blocks count  : 32125
+Free inodes count  : 8192
+Directories count  : 0
+
+Reading block number 5 from device /dev/sda1:
+Blocks bitmap block: 131072
+Inodes bitmap block: 131073
+Inodes table block : 131074
+Free blocks count  : 32254
+Free inodes count  : 8192
+Directories count  : 0
+
+Reading block number 6 from device /dev/sda1:
+Blocks bitmap block: 163969
+Inodes bitmap block: 163970
+Inodes table block : 163971
+Free blocks count  : 32125
+Free inodes count  : 8192
+Directories count  : 0
+
+Reading block number 7 from device /dev/sda1:
+Blocks bitmap block: 196608
+Inodes bitmap block: 196609
+Inodes table block : 196610
+Free blocks count  : 32254
+Free inodes count  : 8192
+Directories count  : 0
+
+Reading block number 8 from device /dev/sda1:
+Blocks bitmap block: 229505
+Inodes bitmap block: 229506
+Inodes table block : 229507
+Free blocks count  : 32125
+Free inodes count  : 8192
+Directories count  : 0
+
+Reading block number 9 from device /dev/sda1:
+Blocks bitmap block: 262144
+Inodes bitmap block: 262145
+Inodes table block : 262146
+Free blocks count  : 32254
+Free inodes count  : 8192
+Directories count  : 0
+
+Reading block number 10 from device /dev/sda1:
+Blocks bitmap block: 295041
+Inodes bitmap block: 295042
+Inodes table block : 295043
+Free blocks count  : 32125
+Free inodes count  : 8192
+Directories count  : 0
+
+Reading block number 11 from device /dev/sda1:
+Blocks bitmap block: 327680
+Inodes bitmap block: 327681
+Inodes table block : 327682
+Free blocks count  : 32254
+Free inodes count  : 8192
+Directories count  : 0
+
+Reading block number 12 from device /dev/sda1:
+Blocks bitmap block: 360448
+Inodes bitmap block: 360449
+Inodes table block : 360450
+Free blocks count  : 32254
+Free inodes count  : 8192
+Directories count  : 0
+
+Reading block number 13 from device /dev/sda1:
+Blocks bitmap block: 393216
+Inodes bitmap block: 393217
+Inodes table block : 393218
+Free blocks count  : 32254
+Free inodes count  : 8192
+Directories count  : 0
+
+Reading block number 14 from device /dev/sda1:
+Blocks bitmap block: 425984
+Inodes bitmap block: 425985
+Inodes table block : 425986
+Free blocks count  : 32254
+Free inodes count  : 8192
+Directories count  : 0
+
+Reading block number 15 from device /dev/sda1:
+Blocks bitmap block: 458752
+Inodes bitmap block: 458753
+Inodes table block : 458754
+Free blocks count  : 32254
+Free inodes count  : 8192
+Directories count  : 0
+
+Reading block number 16 from device /dev/sda1:
+Blocks bitmap block: 491520
+Inodes bitmap block: 491521
+Inodes table block : 491522
+Free blocks count  : 32254
+Free inodes count  : 8192
+Directories count  : 0
+

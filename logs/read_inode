@@ -1,0 +1,28 @@
+Reading inode
+File mode: 16877
+Owner UID: 0
+Size     : 4096 bytes
+Blocks   : 8
+atime    : 1624218086
+ctime    : 1624216700
+mtime    : 1624216700
+dtime    : 0
+gid      : 0
+links_cnt: 3
+flags    : 0
+Block  0 : 643
+Block  1 : 0
+Block  2 : 0
+Block  3 : 0
+Block  4 : 0
+Block  5 : 0
+Block  6 : 0
+Block  7 : 0
+Block  8 : 0
+Block  9 : 0
+Block 10 : 0
+Block 11 : 0
+Single   : 0
+Double   : 0
+Triple   : 0
+

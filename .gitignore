@@ -1,0 +1,7 @@
+*
+!*.c
+!makefile
+!.gitignore
+!README.md
+!*/
+!logs/*

@@ -1,3 +1,13 @@
+# Points to Note/Consider for "Our Own FS" (to insert a name in future)
+* Minimal requirements of the fs:
+	1. Bootsector
+	1. Data structure for handling data and addressing info
+	1. Actual data segment
+* The read-write headers + C files will need to be written which will be exported to the driver
+* For easy driver handling, FUSE is a great option but it itself is a huge codebase and hence might have security flaws. However, it can be a good starting point for now.
+* Test the same on different OS platforms.
+
+
 # Random Experimentation with ext2 FS
 ## Conclusions
 *(Note: everything is 0-indexed)*

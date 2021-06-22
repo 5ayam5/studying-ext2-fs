@@ -28,9 +28,11 @@ static void read_inode(int, int, const struct ext2_group_desc *, struct ext2_ino
 
 int main(int argc, char *argv[])
 {
-	int groupNum = 0;
+	int groupNum = 0, inodeNum = 2;
 	if (argc == 2)
 		groupNum = atoi(argv[1]);
+	if (argc == 3)
+		inodeNum = atoi(argv[2]);
 
 	struct ext2_super_block super;
 	struct ext2_group_desc group;
@@ -64,7 +66,7 @@ int main(int argc, char *argv[])
 	read(fd, &group, sizeof(group));
 
 	/* show entries in the root directory */
-	read_inode(fd, 2, &group, &inode); /* read inode 2 (root directory) */
+	read_inode(fd, inodeNum, &group, &inode); /* read inode 2 (root directory) */
 	read_dir(fd, &inode, &group);
 
 	close(fd);

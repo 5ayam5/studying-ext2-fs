@@ -4,4 +4,4 @@
 !.gitignore
 !README.md
 !*/
-!logs/*
+!ext2_expt/logs/*

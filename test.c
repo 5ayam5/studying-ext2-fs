@@ -1,4 +1,4 @@
-#define FUSE_USE_VERSION 31
+#define FUSE_USE_VERSION 29
 #include <fuse.h>
 #include <stdlib.h>
 #include <unistd.h>
@@ -27,9 +27,9 @@ int myfs_getattr(const char *path, struct stat *st)
 
 int myfs_readdir(const char *path, void *buffer, fuse_fill_dir_t filler, off_t offset, struct fuse_file_info *fi)
 {
-	filler(buffer, ".", NULL, offset, 0);		// current directory reference
-	filler(buffer, "..", NULL, offset, 0);		// parent directory reference
-	filler(buffer, "abc.txt", NULL, offset, 0); // any filename at path in your image
+	filler(buffer, ".", NULL, 0);		// current directory reference
+	filler(buffer, "..", NULL, 0);		// parent directory reference
+	filler(buffer, "abc.txt", NULL, 0); // any filename at path in your image
 	return 0;
 }
 
